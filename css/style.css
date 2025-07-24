@@ -24,7 +24,7 @@
   display: block;
   padding: 10px 20px;
   color: #fff;
-  text-decoration: none;
+  text-decoration: none !important;
   background-color: #000;
 }
 
